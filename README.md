@@ -1,13 +1,13 @@
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://github.com/ramadhan73/YukkiMusicBot/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/YukkiRobot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/rfbmusikbot"> Ready-To-Use Bot </a> •
     <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/OfficialYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://t.me/isengcoverr"> Support Channel </a> •
+    <a href="https://t.me/sukadimadu"> Support Chat </a> 
 </p>
     
 # Yukki Music Bot
